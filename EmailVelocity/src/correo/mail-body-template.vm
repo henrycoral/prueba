@@ -1,0 +1,586 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>[SUBJECT]</title>
+      <style type="text/css">
+      body {
+       padding-top: 0 !important;
+       padding-bottom: 0 !important;
+       padding-top: 0 !important;
+       padding-bottom: 0 !important;
+       margin:0 !important;
+       width: 100% !important;
+       -webkit-text-size-adjust: 100% !important;
+       -ms-text-size-adjust: 100% !important;
+       -webkit-font-smoothing: antialiased !important;
+     }
+     .tableContent img {
+       border: 0 !important;
+       display: block !important;
+       outline: none !important;
+     }
+     a{
+      color:#382F2E;
+    }
+
+    p, h1{
+      margin:0;
+    }
+
+    div,p,ul,h1{
+      margin:0;
+    }
+
+    .bigger{
+      font-size: 24px;
+    }
+    .bgBody{
+      background: $colorEmail;
+    }
+    .bgItem{
+      background: #ffffff;
+    }
+    h2{
+      color:#444444;
+      font-size:16px;
+      font-weight:normal;
+      margin:0;
+    }
+    p{
+      color:#AAAAAA;
+      font-size:13px;
+      line-height:19px;
+      font-weight:normal;
+    }
+    a.link2{
+      padding:10px 20px;
+      border-radius:3px;
+      -moz-border-radius:3px;
+      -webkit-border-radius:3px;
+      color:#ffffff;
+      font-size:13px;
+      background:#C3CAA9;
+      text-decoration:none;
+    }
+
+    a.link1{
+      font-weight:bold;
+      color:#7E8564;
+      font-size:13px;
+    }
+	
+@media only screen and (max-width:480px)
+		
+{
+		
+table[class="MainContainer"], td[class="cell"] 
+	{
+		width: 100% !important;
+		height:auto !important; 
+	}
+td[class="specbundle"] 
+	{
+		width: 100% !important;
+		float:left !important;
+		font-size:13px !important;
+		line-height:17px !important;
+		display:block !important;
+		padding-bottom:15px !important;
+	}
+	
+	td[class="specbundle_img"] 
+	{
+		width: 100% !important;
+		float:left !important;
+		display:block !important;
+		font-size:13px !important;
+		line-height:17px !important;
+	}	
+	
+td[class="specbundle2"] 
+	{
+		width:90% !important;
+		float:left !important;
+		font-size:13px !important;
+		line-height:17px !important;
+		display:block !important;
+		padding-bottom:10px !important;
+		padding-left:5% !important;
+		padding-right:5% !important;
+		text-align:center !important;
+	}
+	
+	td[class="specbundle3"] 
+	{
+		width:70% !important;
+		float:left !important;
+		display:block !important;
+		padding-bottom:10px !important;
+		padding-left:15% !important;
+		padding-right:15% !important;
+	}
+		
+td[class="spechide"] 
+	{
+		display:none !important;
+	}
+	    img[class="banner"] 
+	{
+	          width: 100% !important;
+	          height: auto !important;
+	}
+	img[class="banner1"] 
+	{
+	          width: 95% !important;
+	          height: auto !important;
+	}
+		td[class="left_pad"] 
+	{
+			padding-left:15px !important;
+			padding-right:15px !important;
+	}
+		 
+}
+	
+@media only screen and (max-width:540px) 
+
+{
+		
+table[class="MainContainer"], td[class="cell"] 
+	{
+		width: 100% !important;
+		height:auto !important; 
+	}
+td[class="specbundle"] 
+	{
+		width: 100% !important;
+		float:left !important;
+		font-size:13px !important;
+		line-height:17px !important;
+		display:block !important;
+		padding-bottom:15px !important;
+	}	
+td[class="specbundle2"] 
+	{
+		width:90% !important;
+		float:left !important;
+		font-size:13px !important;
+		line-height:17px !important;
+		display:block !important;
+		padding-bottom:10px !important;
+		padding-left:5% !important;
+		padding-right:5% !important;
+		text-align:center !important;
+	}
+	
+	td[class="specbundle_img"] 
+	{
+		width: 100% !important;
+		float:left !important;
+		display:block !important;
+		font-size:13px !important;
+		line-height:17px !important;
+	}
+	
+	td[class="specbundle3"] 
+	{
+		width:70% !important;
+		float:left !important;
+		display:block !important;
+		padding-bottom:10px !important;
+		padding-left:15% !important;
+		padding-right:15% !important;
+	}
+		
+td[class="spechide"] 
+	{
+		display:none !important;
+	}
+	    img[class="banner"] 
+	{
+	          width: 100% !important;
+	          height: auto !important;
+	}
+	img[class="banner1"] 
+	{
+	          width: 95% !important;
+	          height: auto !important;
+	}
+		td[class="left_pad"] 
+	{
+			padding-left:15px !important;
+			padding-right:15px !important;
+	}
+		
+}
+
+</style>
+<script type="colorScheme" class="swatch active">
+  {
+    "name":"Default",
+    "bgBody":"333333",
+    "link":"7E8564",
+    "color":"AAAAAA",
+    "bgItem":"ffffff",
+    "title":"444444"
+  }
+</script>
+  </head>
+  <body paddingwidth="0" paddingheight="0"  style="padding-top: 0; padding-bottom: 0; padding-top: 0; padding-bottom: 0; background-repeat: repeat; width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased;" offset="0" toppadding="0" leftpadding="0">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tableContent bgBody" align="center" style='font-family:Helvetica, Arial,serif;'>
+  <tbody>
+    <tr>
+      <td><table width="800" border="0" cellspacing="0" cellpadding="0" align="center" class="MainContainer" bgcolor="#333333">
+  <tbody>
+    <tr>
+    
+    <!-- =============================== Header ====================================== -->           
+
+<!-- =============================== Body ====================================== -->
+      <td class='movableContentContainer'>
+      	<div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0"  align="center" bgcolor='#C4CAA9'>
+                <tr><td height='28' colspan='4'></td></tr>
+                <tr>
+                  <td width='28'></td>
+
+                  <td align='left' valign='middle' >
+                     <div class="contentEditableContainer contentTextEditable" style='display:inline-block;'>
+                      <div class="contentEditable" >
+                        <p style='color:#ffffff;font-size:15px;text-decoration:none;'><b>$fecha</b></p>
+                      </div>
+                    </div>
+                  </td>
+
+                  <td align='right' valign='top' >
+                    <div class="contentEditableContainer contentTextEditable" style='display:inline-block;'>
+                      <div class="contentEditable" >
+                        <p style='color:#ffffff;font-size:15px;text-decoration:none;'><b>$nombre</b></p>
+                      </div>
+                    </div>
+                  </td>
+
+                  <td width='28'></td>
+                </tr>
+                <tr><td height='28' colspan='4'></td></tr>
+              </table>
+      </div>
+      <div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+  
+</table>
+
+      </div>
+      <div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="top" width="200" align="center"><div class="contentEditableContainer contentImageEditable"  style="background:#C3CAA9;">
+                <div class="contentEditable">
+                  <img class="banner"  src="$direccionWeb" style="padding-bottom:5px;" alt='Featured images' data-default="placeholder" data-max-width="500" height="100" border="0">
+                </div>
+              </div>
+	</td>
+    </tr>
+  </tbody>
+</table>
+
+      </div>
+      <div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0"  align="center" bgcolor='$colorEmail'>  
+                <tr><td height='25' colspan='3'></td></tr>
+
+                <tr>
+                  <td width='25'></td>
+                  
+                  <td>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0"  align="center">
+                      <tr>
+                        <td>
+                          <div class="contentEditableContainer contentTextEditable">
+                            <div class="contentEditable" >
+                              <h1 style='font-size:16px;color:#ffffff;font-weight:normal;margin:0;'>$nombreEmpresa</h1>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr><td height='10'></td></tr>
+                      <tr>
+                        <td>
+                          <div class="contentEditableContainer contentTextEditable">
+                            <div class="contentEditable" >
+                              <p style='font-size:13px;color:#ffffff;margin:0;'>
+                                $listaFactura
+                              </p>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+
+                  <td width='25'></td>
+                </tr>
+
+                <tr><td height='25' colspan='3'></td></tr>
+              </table>
+      </div>
+      <div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    
+    <tr>
+      <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  
+</table>
+</td>
+    </tr>
+  </tbody>
+</table>
+
+      </div>
+      <div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+      <tr>
+      <td>
+     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+   
+  </tbody>
+</table>
+</td>
+    </tr>
+  </tbody>
+</table>
+
+      </div>
+      <div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+   
+    <tr>
+      <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="top" bgcolor="#ffffff" class="specbundle_img">
+	<table border="0" cellspacing="0" cellpadding="0"  align="center" width="100%">
+  </tbody>
+</table>
+</td>
+    </tr>
+  </tbody>
+</table>
+
+      </div>
+      <div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table border="0" cellspacing="0" cellpadding="0"  align="center" width="100%" bgcolor='#C3CAA9'>
+                        <tr><td height='25' colspan='3'></td></tr>
+                        <tr>
+                          <td width='25'></td>
+                          <td>
+                            <table border="0" cellspacing="0" cellpadding="0"  align="center">
+                              <tr>
+                                <td>
+                                  <table border="0" cellspacing="0" cellpadding="0"  align="center" width="100%">
+                                    <tr>
+                                      <td width='175'><div style='border:1px solid #A9B288;'></div></td>
+                                      <td width='200' style='padding:0 10px;'>
+                                        <div class="contentEditableContainer contentTextEditable">
+                                          <div class="contentEditable" style='color:#585C49;font-size:26px;font-weight:normal;font-family:georgia;text-align:center;'>
+                                            <h1 class='bigger'>$paginaWeb</h1>
+                                          </div>
+                                        </div>
+                                      </td>
+                                      <td width='175'><div style='border:1px solid #A9B288;'></div></td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                          <td width='25'></td>
+                        </tr>
+                        <tr><td height='35' colspan='3'></td></tr>
+                      </table>
+      </div>
+      <div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+   
+    <tr>
+      <td bgcolor="#ffffff"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    
+    <tr>
+      <td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="top" class="specbundle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+ 
+</table>
+</td>
+     
+      <td valign="middle" width="125" class="specbundle_img"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+</td>
+    </tr>
+  </tbody>
+</table>
+</td>
+    </tr>
+    
+  </tbody>
+</table>
+</td>
+    </tr>
+  </tbody>
+</table>
+
+      </div>
+      <div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+   
+    <tr>
+      <td bgcolor="#ffffff"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    
+    <tr>
+      <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="top" class="specbundle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  
+</table>
+</td>
+        <td valign="middle" width="125" class="specbundle_img"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+
+    </tr>
+  </tbody>
+</table>
+</td>
+    </tr>
+  </tbody>
+</table>
+</td>
+    </tr>
+    
+  </tbody>
+</table>
+</td>
+    </tr>
+  </tbody>
+</table>
+      </div>
+      <div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0"  align="center">
+                  <tr><td height='50'></td></tr>
+
+          <tr><td  style='border-bottom:1px solid #999999;'></td></tr>
+
+          <tr><td height='25'></td></tr>
+
+          <tr>
+            <td valign='top' align='center'>
+              <div class="contentEditableContainer contentTextEditable">
+                <div class="contentEditable" >
+                  <p style='color:#A8B0B6; font-size:13px;line-height: 16px;'>
+			<b>$tituloUno</b>
+                  </p>
+                </div>
+              </div>
+            </td>
+          </tr>
+              </table>
+      </div>
+      <div class="movableContent" style="border: 0px; padding-top: 0px; position: relative;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td width="40" valign="top" class="spechide">&nbsp;</td>
+      <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="top" align="left" class="specbundle2"><div class="contentEditableContainer contentTextEditable">
+                            <div class="contentEditable" align='center'>
+                              <p  style='text-align:left;color:#999999;font-size:12px;font-weight:normal;line-height:20px;'>
+                                <span style='font-weight:bold;'>$detalleUno</span>
+                                <br>
+                                <span style='font-weight:bold;'>$detalleDos</span> 
+                                <br>
+                                <span style='font-weight:bold;'>$detalleTres</span> 
+				<br>
+                                <span style='font-weight:bold;'>$detalleCuatro</span> 
+                              </p>
+                            </div>
+                          </div></td>
+      <td width='16' class="specbundle2"></td>
+      <td valign="top" width="120" class="specbundle3" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody>
+    <tr>
+      <td width="52" height="54" valign="top" align="center"><div class="contentEditableContainer contentFacebookEditable">
+                            <!--<div class="contentEditable">
+                              <a target='_blank' href="#"><img src="images/facebook2.png" width='52' data-customIcon="true" height='52' alt='facebook icon' data-default="placeholder" data-max-width="52"></a>
+                            </div>-->
+                          </div></td>
+      <td valign="top" width="16" class="spechide">&nbsp;</td>
+      <td valign="top" width="52" align="center"><div class="contentEditableContainer contentTwitterEditable">
+                            <!--<div class="contentEditable">
+                              <a target='_blank' href="#"><img src="images/twitter2.png" width='52' data-customIcon="true" height='52' alt='twitter icon' data-default="placeholder" data-max-width="52"></a>
+                            </div>-->
+                          </div></td>
+    </tr>
+  </tbody>
+</table></td>
+    </tr>
+  </tbody>
+</table>
+</td>
+    </tr>
+  </tbody>
+</table>
+</td>
+      <td valign="top" width="40" class="spechide">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+</td>
+    </tr>
+  </tbody>
+</table>
+
+      </div>
+      
+      <!-- =============================== footer ====================================== -->
+      </td>
+    </tr>
+  </tbody>
+</table>
+</td>
+    </tr>
+    <tr>
+    	<td height='55'></td>
+    </tr>
+  </tbody>
+</table>
+
+      </body>
+      </html>
