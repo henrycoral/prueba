@@ -1,0 +1,4 @@
+file.conf
+*.conf
+/config/
+*DS_Store*
